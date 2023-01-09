@@ -1,0 +1,3 @@
+/Users/behakarakisi/CLionProjects/behaulaskarakisi/cmake-build-debug/CMakeFiles/behaulaskarakisi.dir
+/Users/behakarakisi/CLionProjects/behaulaskarakisi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/behakarakisi/CLionProjects/behaulaskarakisi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
